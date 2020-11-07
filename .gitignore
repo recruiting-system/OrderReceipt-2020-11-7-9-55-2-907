@@ -1,0 +1,9 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+.vs
+/OrderReceipt/bin
+/OrderReceipt/obj
+/OrderReceiptTest/bin
+/OrderReceiptTest/obj
